@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yash",
+      "compnay": "MANG",
+      "salary": "hidden"
+    },
+    {
+      "name": "Harsh Thakur ",
+      "salary": "300000",
+      "compnay": "Amazon",
+      "id": 2
+    },
+    {
+      "name": "Clark Kent",
+      "salary": "10000000",
+      "compnay": "Daily planet",
+      "id": 4
+    },
+    {
+      "name": "Barry Allen",
+      "salary": "100000",
+      "compnay": "Central Labs",
+      "id": 5
+    }
+  ]
+}
